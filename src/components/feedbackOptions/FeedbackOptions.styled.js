@@ -7,7 +7,7 @@ export const Btn = styled.button`
   font-weight: 500;
   border-radius: 5px;
   border: none;
-  background-color: lightgrey;
+
   cursor: pointer;
 
   &:hover {
